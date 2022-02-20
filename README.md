@@ -22,6 +22,13 @@
 </details>
 
 ## [Pandas](https://github.com/renatanesio/DataScience/tree/master/Pandas)
+### [Python Pandas: Tratando e analisando dados](https://www.alura.com.br/curso-online-pandas-io)
+[Notebook PandasIntro]()
+<details>
+<summary>Conteúdo</summary>
+ 
+</details>
+
 ### [Pandas: Formatos diferentes de entrada e saída (IO)](https://www.alura.com.br/curso-online-pandas-io)
 [Notebook PandasIO](https://github.com/renatanesio/DataScience/blob/master/Pandas/PandasIO.ipynb)
 <details>
@@ -46,3 +53,4 @@
         - read_json(), read_html(), read_csv(), read_excel()
         - query(), read_sql(), to_sql(), read_sql_table()
 </details>
+
