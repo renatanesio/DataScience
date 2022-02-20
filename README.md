@@ -28,6 +28,8 @@
 <summary>Conteúdo</summary>
  
  - Leitura de diferentes fontes de dados
+ - Seleção de variáveis em dataframe
+ - Redefinição de index
  - Biblioteca pandas
      - Métodos:
         - info()
@@ -35,6 +37,11 @@
         - dtypes
         - columns
         - shape
+        - drop_duplicates()
+        - DataFrame()
+        - Series()
+        - concat()
+ 
  
 </details>
 
