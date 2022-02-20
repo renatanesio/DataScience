@@ -23,9 +23,25 @@
 
 ## [Pandas](https://github.com/renatanesio/DataScience/tree/master/Pandas)
 ### [Python Pandas: Tratando e analisando dados](https://www.alura.com.br/curso-online-pandas-io)
-[Notebook PandasIntro]()
+[Notebook PandasIntro](https://github.com/renatanesio/DataScience/blob/master/Pandas/PandasIntro.ipynb)
 <details>
 <summary>Conteúdo</summary>
+ 
+ - Leitura de diferentes fontes de dados
+ - Seleção de variáveis em dataframe
+ - Redefinição de index
+ - Biblioteca pandas
+     - Métodos:
+        - info()
+        - head()
+        - dtypes
+        - columns
+        - shape
+        - drop_duplicates()
+        - DataFrame()
+        - Series()
+        - concat()
+ 
  
 </details>
 
