@@ -26,6 +26,7 @@
 [Notebook PandasIntro](https://github.com/renatanesio/DataScience/blob/master/Pandas/PandasIntro.ipynb)
 <details>
 <summary>Conteúdo</summary>
+ 
  - Leitura de diferentes fontes de dados
  - Biblioteca pandas
      - Métodos:
