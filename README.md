@@ -42,7 +42,7 @@
         - join()
         - describe()
         - value_counts()
-        - to_json(), to_html(), to_csv()
-        - read_json(), read_html(), read_csv()
+        - to_json(), to_html(), to_csv(), to_excel()
+        - read_json(), read_html(), read_csv(), read_excel()
         - query(), read_sql(), to_sql(), read_sql_table()
 </details>
