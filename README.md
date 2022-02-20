@@ -30,4 +30,7 @@
         - read_json()
         - concat()
         - to_frame()
+        - read_html()
+        - rename()
+        - set_index()
 </details>
