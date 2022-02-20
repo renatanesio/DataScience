@@ -29,10 +29,16 @@
  
  - Biblioteca Pandas
     - Métodos:
-        - read_json()
+        - read_json(), read_html(), read_csv()
+        - to_json(), to_html(), to_csv()
         - concat()
+        - sample()
         - to_frame()
-        - read_html()
         - rename()
         - set_index()
+        - groupby()
+        - count()
+        - join()
+        - describe()
+        - value_counts()
 </details>
