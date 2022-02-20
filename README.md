@@ -27,10 +27,11 @@
 <details>
 <summary>Conteúdo</summary>
  
- - Biblioteca Pandas
-    - Métodos:
-        - read_json(), read_html(), read_csv()
-        - to_json(), to_html(), to_csv()
+ - Leitura e escrita de dados nos formatos HTML, json ou csv
+ - Leitura e escrita de dados em banco sql
+ - Uso de bibliotecas numpy, seaborn, matplotlib, sqlalchemy
+ - Biblioteca pandas
+     - Métodos:
         - concat()
         - sample()
         - to_frame()
@@ -41,4 +42,7 @@
         - join()
         - describe()
         - value_counts()
+        - to_json(), to_html(), to_csv()
+        - read_json(), read_html(), read_csv()
+        - query(), read_sql(), to_sql(), read_sql_table()
 </details>
