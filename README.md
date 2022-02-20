@@ -2,6 +2,7 @@
 
 ## [Web Scraping](https://github.com/renatanesio/DataScience/tree/master/WebScraping)
 ### [Scraping com Python: Coleta de dados na web](https://www.alura.com.br/curso-online-web-scraping-data-science-python)
+[Notebook WebScraping](https://github.com/renatanesio/DataScience/blob/master/WebScraping/WebScraping.ipynb)
 <details>
 <summary>Conteúdo</summary>
  
@@ -22,6 +23,7 @@
 
 ## [Pandas](https://github.com/renatanesio/DataScience/tree/master/Pandas)
 ### [Pandas: Formatos diferentes de entrada e saída (IO)](https://www.alura.com.br/curso-online-pandas-io)
+[Notebook PandasIO](https://github.com/renatanesio/DataScience/blob/master/Pandas/PandasIO.ipynb)
 <details>
 <summary>Conteúdo</summary>
  
