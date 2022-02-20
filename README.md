@@ -23,7 +23,7 @@
 
 ## [Pandas](https://github.com/renatanesio/DataScience/tree/master/Pandas)
 ### [Python Pandas: Tratando e analisando dados](https://www.alura.com.br/curso-online-pandas-io)
-[Notebook PandasIntro]()
+[Notebook PandasIntro](https://github.com/renatanesio/DataScience/blob/master/Pandas/PandasIntro.ipynb)
 <details>
 <summary>Conteúdo</summary>
  
