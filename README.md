@@ -70,3 +70,14 @@
         - query(), read_sql(), to_sql(), read_sql_table()
 </details>
 
+## [Numpy]()
+### [Python para Data Science: Introdução à linguagem e Numpy](https://www.alura.com.br/curso-online-python-tipos-listas-numpy)
+[Notebook NumpyIntro]()
+<details>
+<summary>Conteúdo</summary>
+ 
+ 
+ 
+</details>
+
+
