@@ -76,7 +76,11 @@
 <details>
 <summary>Conteúdo</summary>
  
- 
+ - Carregar dados externos em arrays Numpy
+ - Operações matemáticas com Python
+ - Criar e atribuir valores a variáveis na linguagem Python
+ - Tipos de dados básicos em Python
+ - Transformações de tipos de dados
  
 </details>
 
