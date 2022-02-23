@@ -31,7 +31,7 @@
  - Seleção de variáveis em dataframe
  - Redefinição de index
  - Biblioteca pandas
-     - Métodos:
+     - Métodos e atributos:
         - info()
         - head()
         - dtypes
@@ -89,6 +89,21 @@
  - Cláusulas if, else e elif
  - Operadores lógicos e comparações
  
+ - Biblioteca Numpy
+     - Métodos e atributos:
+        - arange()
+        - array()
+        - sum()
+        - mean()
+        - std()
+        - resize()
+        - reshape()
+        - tolist()
+        - transpose()
+        - shape
+        - ndim
+        - size
+        - dtype 
  
 </details>
 
