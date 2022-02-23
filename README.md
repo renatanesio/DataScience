@@ -81,6 +81,8 @@
  - Criar e atribuir valores a variáveis na linguagem Python
  - Tipos de dados básicos em Python
  - Transformações de tipos de dados
+ - Listas
+ - Concatenação, fatiamento e seleção em listas
  
 </details>
 
