@@ -82,7 +82,13 @@
  - Tipos de dados básicos em Python
  - Transformações de tipos de dados
  - Listas
- - Concatenação, fatiamento e seleção em listas
+ - Concatenação, fatiamento, seleção e iteração em listas
+ - Laços _for_
+ - Laços aninhados
+ - List comprehensions
+ - Cláusulas if, else e elif
+ - Operadores lógicos e comparações
+ 
  
 </details>
 
