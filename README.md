@@ -107,4 +107,11 @@
  
 </details>
 
-
+## [Spark](https://github.com/renatanesio/DataScience/tree/master/Numpy)
+### [Spark: Apresentando a ferramenta](https://cursos.alura.com.br/course/spark-apresentando-ferramenta)
+[Notebook SparkIntro](https://github.com/renatanesio/DataScience/blob/master/Spark/SparkIntro.ipynb)
+<details>
+<summary>Conteúdo</summary>
+ 
+ 
+</details>
