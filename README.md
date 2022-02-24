@@ -1,26 +1,5 @@
 # [Data Science](https://github.com/renatanesio/DataScience)
 
-## [Web Scraping](https://github.com/renatanesio/DataScience/tree/master/WebScraping)
-### [Scraping com Python: Coleta de dados na web](https://www.alura.com.br/curso-online-web-scraping-data-science-python)
-[Notebook WebScraping](https://github.com/renatanesio/DataScience/blob/master/WebScraping/WebScraping.ipynb)
-<details>
-<summary>Conteúdo</summary>
- 
- - Obtenção e limpeza de HTML
- - Biblioteca BeautifulSoup
-    - Métodos:
-        - find(), findAll()
-        - findParent(), findParents()
-        - findPreviousSibling(), findPreviousSiblings()
-        - findNextSibling(), findNextSiblings()
-        - findNext(), findAllNext()
-        - findPrevious(), findAllPreviou()
- - Captura de dados
-    - DataFrames com biblioteca pandas
-    - Acesso a arquivos de imagem através do notebook
-    - Download de arquivos para diretórios locais
-</details>
-
 ## [Pandas](https://github.com/renatanesio/DataScience/tree/master/Pandas)
 ### [Python Pandas: Tratando e analisando dados](https://www.alura.com.br/curso-online-pandas-io)
 [Notebook PandasIntro](https://github.com/renatanesio/DataScience/blob/master/Pandas/PandasIntro.ipynb)
@@ -106,6 +85,28 @@
         - dtype 
  
 </details>
+
+## [Web Scraping](https://github.com/renatanesio/DataScience/tree/master/WebScraping)
+### [Scraping com Python: Coleta de dados na web](https://www.alura.com.br/curso-online-web-scraping-data-science-python)
+[Notebook WebScraping](https://github.com/renatanesio/DataScience/blob/master/WebScraping/WebScraping.ipynb)
+<details>
+<summary>Conteúdo</summary>
+ 
+ - Obtenção e limpeza de HTML
+ - Biblioteca BeautifulSoup
+    - Métodos:
+        - find(), findAll()
+        - findParent(), findParents()
+        - findPreviousSibling(), findPreviousSiblings()
+        - findNextSibling(), findNextSiblings()
+        - findNext(), findAllNext()
+        - findPrevious(), findAllPreviou()
+ - Captura de dados
+    - DataFrames com biblioteca pandas
+    - Acesso a arquivos de imagem através do notebook
+    - Download de arquivos para diretórios locais
+</details>
+
 
 ## [Spark](https://github.com/renatanesio/DataScience/tree/master/Spark)
 ### [Spark: Apresentando a ferramenta](https://cursos.alura.com.br/course/spark-apresentando-ferramenta)
