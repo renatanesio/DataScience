@@ -1,5 +1,42 @@
 # [Data Science](https://github.com/renatanesio/DataScience)
 
+## [Numpy](https://github.com/renatanesio/DataScience/tree/master/Numpy)
+### [Python para Data Science: Introdução à linguagem e Numpy](https://www.alura.com.br/curso-online-python-tipos-listas-numpy)
+[Notebook NumpyIntro](https://github.com/renatanesio/DataScience/blob/master/Numpy/NumpyIntro.ipynb)
+<details>
+<summary>Conteúdo</summary>
+ 
+ - Carregar dados externos em arrays Numpy
+ - Operações matemáticas com Python
+ - Criar e atribuir valores a variáveis na linguagem Python
+ - Tipos de dados básicos em Python
+ - Transformações de tipos de dados
+ - Listas
+ - Concatenação, fatiamento, seleção e iteração em listas
+ - Laços _for_
+ - Laços aninhados
+ - List comprehensions
+ - Cláusulas if, else e elif
+ - Operadores lógicos e comparações
+ 
+ - Biblioteca Numpy
+     - Métodos e atributos:
+        - arange()
+        - array()
+        - sum()
+        - mean()
+        - std()
+        - resize()
+        - reshape()
+        - tolist()
+        - transpose()
+        - shape
+        - ndim
+        - size
+        - dtype 
+ 
+</details>
+
 ## [Pandas](https://github.com/renatanesio/DataScience/tree/master/Pandas)
 ### [Python Pandas: Tratando e analisando dados](https://www.alura.com.br/curso-online-pandas-io)
 [Notebook PandasIntro](https://github.com/renatanesio/DataScience/blob/master/Pandas/PandasIntro.ipynb)
@@ -47,43 +84,6 @@
         - to_json(), to_html(), to_csv(), to_excel()
         - read_json(), read_html(), read_csv(), read_excel()
         - query(), read_sql(), to_sql(), read_sql_table()
-</details>
-
-## [Numpy](https://github.com/renatanesio/DataScience/tree/master/Numpy)
-### [Python para Data Science: Introdução à linguagem e Numpy](https://www.alura.com.br/curso-online-python-tipos-listas-numpy)
-[Notebook NumpyIntro](https://github.com/renatanesio/DataScience/blob/master/Numpy/NumpyIntro.ipynb)
-<details>
-<summary>Conteúdo</summary>
- 
- - Carregar dados externos em arrays Numpy
- - Operações matemáticas com Python
- - Criar e atribuir valores a variáveis na linguagem Python
- - Tipos de dados básicos em Python
- - Transformações de tipos de dados
- - Listas
- - Concatenação, fatiamento, seleção e iteração em listas
- - Laços _for_
- - Laços aninhados
- - List comprehensions
- - Cláusulas if, else e elif
- - Operadores lógicos e comparações
- 
- - Biblioteca Numpy
-     - Métodos e atributos:
-        - arange()
-        - array()
-        - sum()
-        - mean()
-        - std()
-        - resize()
-        - reshape()
-        - tolist()
-        - transpose()
-        - shape
-        - ndim
-        - size
-        - dtype 
- 
 </details>
 
 ## [Web Scraping](https://github.com/renatanesio/DataScience/tree/master/WebScraping)
