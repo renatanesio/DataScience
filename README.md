@@ -114,5 +114,8 @@
 <details>
 <summary>Conteúdo</summary>
  
+ - SparkSession
+ - Spark DataFrames
+ - Carregar conteúdo de arquivos CSV em um dataframe Spark
  
 </details>
