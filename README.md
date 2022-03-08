@@ -1,5 +1,46 @@
 # [Data Science](https://github.com/renatanesio/DataScience)
 
+## [Statistics](https://github.com/renatanesio/DataScience/tree/master/Numpy)
+### [Estatística com Python parte 1: Frequências e Medidas](https://www.alura.com.br/curso-online-estatistica-distribuicoes-e-medidas)
+[StatisticsPart1](https://github.com/renatanesio/DataScience/blob/master/Statistics/StatisticsPart1.ipynb)
+<details>
+<summary>Conteúdo</summary>
+ 
+ - Classificação de variáveis qualitativas (ordinais e nominais) e quantitativas (discretas e contínuas)
+ - Dataframes com Pandas
+ - Distribuições de frequência com crosstab(), value_counts() e cut()
+ - Regra de Sturges
+ - Histogramas
+ - Medidas de tendência central: média aritmética, mediana e moda
+ - Identificação de assimetrias
+ - Medidas separatrizes: quartis, decis e percentis
+ - Boxplots
+ - Medidas de dispersão: desvio médio absoluto, variância e desvio padrão
+ - Análises descritivas
+ 
+</details>
+
+### [Estatística com Python parte 2: Probabilidade e Amostragem](https://www.alura.com.br/curso-online-estatistica-probabilidade-e-amostragem)
+[StatisticsPart2](https://github.com/renatanesio/DataScience/blob/master/Statistics/StatisticsPart2.ipynb)
+<details>
+<summary>Conteúdo</summary>
+ 
+ - Distribuição de probabilidades binomial
+ - Distribuição de probabilidades Poisson
+ - Distribuição normal de probabilidades
+ - Tabela padronizada Z
+ - Conceitos de população e amostra
+ - Identificação de populações finita e infinita
+ - Amostragem aleatória simples, amostragem estratificada e amostragem por conglomerados
+ - Conceitos de parâmetros e de estimativa
+ - Teorema do limite central
+ - Níveis de confiança e de significância
+ - Margem de erro de um experimento
+ - Intervalos de confiança para uma estimativa pontual (estimação intervalar)
+ - Determinação do tamanho de uma amostra
+ 
+</details>
+
 ## [Numpy](https://github.com/renatanesio/DataScience/tree/master/Numpy)
 ### [Python para Data Science: Introdução à linguagem e Numpy](https://www.alura.com.br/curso-online-python-tipos-listas-numpy)
 [Notebook NumpyIntro](https://github.com/renatanesio/DataScience/blob/master/Numpy/NumpyIntro.ipynb)
